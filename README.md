@@ -4,7 +4,9 @@
  
 - 🌱 I’m currently learning **Java and JavaScript**
 
-- 👯 I’m looking to collaborate on [ChampionsTracker](https://github.com/thluc/ChampionsTracker)
+- 📚 I study at Fatec Zona Sul
+
+- 🤡 Fun fact: I play Moira as a DPS on overwatch
 
 <p align="left">
 </p>
