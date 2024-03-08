@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTIwY2M1NWEtZWQxYy00YjVkLTgwMmQtYjY1NmU5ZGQxODk4XkEyXkFqcGdeQXVyNjcyNzkwMTc%40._V1_FMjpg_UX1000_.jpg&tbnid=0HzJa59QjtIJlM&vet=12ahUKEwjalZGh1uOEAxWDTrgEHfnWAVMQMygAegQIARBL..i&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0972534%2F&docid=lUP55ev_mEseEM&w=1000&h=1500&q=image%20icarly&ved=2ahUKEwjalZGh1uOEAxWDTrgEHfnWAVMQMygAegQIARBL"/>
+<img align="right" src="https://files.catbox.moe/4cquj3.png" width="140px"/> 
 
 - 🌱 I’m currently learning **Java and JavaScript**
 
