@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
+<img align="right" src="https://files.catbox.moe/4cquj3.png" width="140px"/>
 <h3 align="center">A passionate developer</h3>
-<img align="right" src="https://files.catbox.moe/4cquj3.png" width="140px"/> 
+ 
 
 - 🌱 I’m currently learning **Java and JavaScript**
 
