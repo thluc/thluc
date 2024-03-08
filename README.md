@@ -1,5 +1,5 @@
 <h1 align="center"> Bonjour, I'm Thiago 💤</h1>
-<img align="right" src="https://files.catbox.moe/4cquj3.png" width="140px"/>
+<img align="right" src="https://files.catbox.moe/to52iw.png" width="140px"/>
 
  
 - 🌱 I’m currently learning **Java and JavaScript**
