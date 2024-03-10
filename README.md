@@ -6,6 +6,8 @@
 
 - 👀 I enjoy learning frameworks
 
+- 📚 Studying at FATEC Zona Sul
+
 <p align="left">
 </p>
 
