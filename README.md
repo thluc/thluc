@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning **Java and JavaScript**
 
-- 📚 I study at Fatec Zona Sul
+- 👀 I enjoy learning frameworks
 
 <p align="left">
 </p>
