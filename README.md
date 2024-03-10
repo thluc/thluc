@@ -1,8 +1,7 @@
 <h1 align="center">
-  <img src=""  />
+  <img src="https://github.com/thluc/thluc/blob/main/hello.svg"/>
 </h1>
 
-<h1 align="center"> Bonjour, I'm Thiago 💤</h1>
 <img align="right" src="https://files.catbox.moe/pnbxk3.png" width="190px"/>
 
  
