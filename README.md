@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=""/>
+  <img src="https://files.catbox.moe/wio2ib.svg"/>
 </h1>
 
 <img align="right" src="https://files.catbox.moe/pnbxk3.png" width="190px"/>
