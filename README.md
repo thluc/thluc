@@ -6,8 +6,6 @@
 
 - 📚 I study at Fatec Zona Sul
 
-- 🤡 Fun fact: I play Moira as a DPS on Overwatch
-
 <p align="left">
 </p>
 
