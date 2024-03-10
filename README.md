@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/thluc/thluc/blob/main/hello.svg"/>
+  <img src=""/>
 </h1>
 
 <img align="right" src="https://files.catbox.moe/pnbxk3.png" width="190px"/>
