@@ -5,7 +5,7 @@
 <img align="right" src="https://files.catbox.moe/pnbxk3.png" width="290px"/>
 
  
-- 🌱 I’m currently learning **Java and JavaScript**
+- 🌱 I’m currently working on <a href="https://github.com/ChampionTrackers/CTracker">CTracker</a>
 
 - 👀 I enjoy learning frameworks
 
